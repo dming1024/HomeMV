@@ -1,0 +1,2 @@
+#进行软连接挂载videos
+ls /media/dming/TOSHIBA/dy_2020/*.mp4|while read id;do echo ${id##*/};ln -s $id /srv/shiny-server/MV/www/${id##*/};done
