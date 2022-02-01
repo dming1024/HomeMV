@@ -1,6 +1,7 @@
 # HomeMV
-A `home MV` developed by dming1024 based on R Shiny and shiny server.
-利用R、shinyserver，在局域网内搭建了一个视频播放的server。
+
+A `HomeMV` developed by dming1024 based on Shiny and shiny server. Once established this app in you server, you can player any movies in any mobile devices.
+
 
 ## Introductions
 
